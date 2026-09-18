@@ -1,8 +1,8 @@
 Package: stpphawkes
 Type: Package
 Title: Missing Data for Marked Hawkes Process
-Version: 0.2.2
-Date: 2025-03-04
+Version: 0.2.4
+Date: 2026-09-017
 Authors@R: c(
     person("J. Derek", "Tucker", email = "jdtuck@sandia.gov", role = c("aut","cre")),
     person("Lyndsay", "Shand", email = "lshand@sandia.gov", role = "aut"),
@@ -19,12 +19,12 @@ NeedsCompilation: yes
 URL: https://github.com/sandialabs/stpphawkes
 BugReports: https://github.com/sandialabs/stpphawkes/issues
 LinkingTo: Rcpp, RcppArmadillo, RcppProgress, RcppGSL
-RoxygenNote: 7.3.2
-Packaged: 2025-03-10 21:45:47 UTC; jdtuck
+Config/roxygen2/version: 8.1.0
+Packaged: 2026-09-18 01:05:13 UTC; jdtuck
 Author: J. Derek Tucker [aut, cre],
   Lyndsay Shand [aut],
   Stephen Rowe [aut],
   John Lewis [aut]
 Maintainer: J. Derek Tucker <jdtuck@sandia.gov>
 Repository: CRAN
-Date/Publication: 2025-03-10 22:10:02 UTC
+Date/Publication: 2026-09-18 02:30:02 UTC
